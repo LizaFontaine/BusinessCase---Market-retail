@@ -1,5 +1,5 @@
 # BusinessCase- Market retail
-##Fictitious Case Study of an E-commerce Company
+## Fictitious Case Study of an E-commerce Company
 
 Analysis on Power BI to find the best-selling products and categories, the highest-rated products, and the correlation between reviews and ratings, followed by the implementation of strategic and marketing proposals.
 
